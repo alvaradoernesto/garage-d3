@@ -1,3 +1,18 @@
 {
-  "cars": []
+  "cars": [
+  {
+            "id": 1,
+            "marca": "Peugeot",
+            "modelo": "208",
+            "color": "Gris",
+            "patente": "AA123BC"
+        },
+        {
+            "id": 2,
+            "marca": "Fiat",
+            "modelo": "Palio",
+            "color": "Marron",
+            "patente": "ABC123"
+        }
+      ]
 }
